@@ -4,9 +4,9 @@ role: PhD Student Data Science
 bio: My research explores how eye movements in reading are related to different
   reading tasks and to reading comprehension.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Cognitive Science
+  - Adversarial Attacks
+  - Program Synthesis
+  - Robustness in Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
