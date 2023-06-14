@@ -26,7 +26,7 @@ social:
     label: linkedin.com
   - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/tom-yuviler-885207159
+    link: https://twitter.com/TYuviler
     label: twitter.com
   - icon: orcid
     link: https://orcid.org/0009-0008-7952-8292
