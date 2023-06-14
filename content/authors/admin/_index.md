@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/tom-yuviler-885207159
     label: linkedin.com
-    - icon: twitter
+  - icon: twitter
     icon_pack: fab
     link: https://www.linkedin.com/in/tom-yuviler-885207159
     label: twitter.com
