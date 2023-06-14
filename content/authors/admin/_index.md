@@ -22,7 +22,7 @@ social:
     label: github.com
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/in/tom-yuviler-885207159/]
+    link: https://www.linkedin.com/in/tom-yuviler-885207159
     label: linkedin.com
   - icon: orcid
     link: https://orcid.org/0009-0008-7952-8292
