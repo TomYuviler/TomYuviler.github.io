@@ -22,10 +22,10 @@ social:
     label: github.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/iamshubi
+    link: [https://www.linkedin.com/in/tom-yuviler-885207159/]
     label: linkedin.com
   - icon: orcid
-    link: https://orcid.org/0000-0002-2961-5012
+    link: https://orcid.org/0009-0008-7952-8292
     icon_pack: ai
     label: orcid
   # - icon: cv
@@ -48,9 +48,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Shubi
+last_name: Yuviler
 highlight_name: true
-first_name: Omer
+first_name: Tom
 email: ""
 ---
 I am a PhD student in Data Science at the Technion, working under the supervision of [Yevgeni Berzak](https://dds.technion.ac.il/academicstaff/yevgeni-berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
