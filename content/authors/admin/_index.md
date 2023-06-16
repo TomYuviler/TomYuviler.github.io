@@ -18,7 +18,7 @@ social:
     label: google scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/omershubi
+    link: https://github.com/TomYuviler
     label: github.com
   - icon: linkedin
     icon_pack: fab
