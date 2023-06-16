@@ -40,7 +40,7 @@ organizations:
     url: https://www.technion.ac.il/en/home-2/
 education:
   courses:
-    - course: PhD Student in Data Science
+    - course: PhD Student at the Faculty of Electrical and Computer Engineering
       institution: Technion - Israel Institute of Technology
       year: "2023 - Present"
     - course: Master as part of a direct-track to PhD in Data Science
