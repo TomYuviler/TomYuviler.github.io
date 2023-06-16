@@ -14,7 +14,7 @@ social:
     label: Contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=LZnWaVEAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=OSNPoo4AAAAJ&hl=iw
     label: google scholar
   - icon: github
     icon_pack: fab
