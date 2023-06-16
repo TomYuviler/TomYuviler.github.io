@@ -175,7 +175,7 @@ sections:
       text: |-
         Contact me at:
       # Contact (add or remove contact options as necessary)
-      email: <last_name>(at)campus.technion.ac.il
+      email: <first_name>.<last_name>(at)campus.technion.ac.il
       # Automatically link email and phone or display as text?
       autolink: false
     design:
