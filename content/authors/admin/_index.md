@@ -57,5 +57,5 @@ highlight_name: true
 first_name: Tom
 email: ""
 ---
-I am a PhD student in Data Science at the Faculty of Electrical and Computer Engineering, Technion, Technion, working under the supervision of [Dana Drachsler-Cohen](https://ddana.net.technion.ac.il/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
+I am a PhD student in Data Science at the Faculty of Electrical and Computer Engineering, Technion, working under the supervision of [Dana Drachsler-Cohen](https://ddana.net.technion.ac.il/).
 My research explores how eye movements in reading are related to different reading tasks and to reading comprehension.
