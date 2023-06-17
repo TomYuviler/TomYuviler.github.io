@@ -1,6 +1,6 @@
 ---
 title: Tom Yuviler
-role: PhD student at the Faculty of Electrical and Computer Engineering, Technion
+role: PhD student at the Faculty of Electrical and Computer Engineering
 bio: My research explores how eye movements in reading are related to different
   reading tasks and to reading comprehension.
 interests:
