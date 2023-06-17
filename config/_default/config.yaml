@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Omer Shubi # Website name
-baseURL: 'https://omershubi.github.io' #'https://oshubi.netlify.app/' # Website URL
+title: Tom Yuviler # Website name
+baseURL: 'https://TomYuviler.github.io' #'https://oshubi.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
