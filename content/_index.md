@@ -32,7 +32,7 @@ sections:
     id: experience
     content:
       title: Experience
-      date_format: 2006
+      date_format: Jan 2006
       items:
         - title: Head Teaching Assistant
           company: Technion
