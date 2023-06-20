@@ -34,17 +34,15 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Research Assistant
-          company: Hybrid Imaging Lab, Electrical and Computer Engineering Faculty, Technion
+        - title: Head Teaching Assistant
+          company: Technion
           company_url: ''
           company_logo: ''
           location: ''
           date_start: '2019-09-01'
           date_end: '2021-09-30'
           description: |2-
-            * Active part in [CloudCT](cloudct.space), a 3D optical scattering tomography space mission to probe clouds.
-                        
-            * Collaborated on developing an atmospheric lidar simulator & deep-learning-based calibration method.
+            * Courses: Probability, Correctness Guarantees for Software, Cognition in Information Visualization
         - title: Multiple Roles
           company: Watteam (Start-Up Company)
           company_url: ''
