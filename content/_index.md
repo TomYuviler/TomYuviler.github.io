@@ -43,19 +43,15 @@ sections:
           date_end: '2023-09-30'
           description: |2-
             * Courses: Probability, Correctness Guarantees for Software, Cognition in Information Visualization
-        - title: Multiple Roles
-          company: Watteam (Start-Up Company)
+        - title: Data Analyst
+          company: Outbrain
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2015-03-01'
-          date_end: '2018-11-30'
+          date_start: '2019-11-01'
+          date_end: '2021-01-30'
           description: |2-
-            * Head of Business Development, China.
-            
-            * Customer Satisfaction Manager.
-            
-            * Project & Lab Manager.
+            * Student position in the Recommendations R&D group. Analyzed an enormous amount of data for supporting product related decisions and solutions. Used different analytics tools, such as complex SQL queries and dashboards.      
     design:
       columns: '2'
   # - block: accomplishments
