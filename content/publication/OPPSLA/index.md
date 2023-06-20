@@ -28,6 +28,6 @@ image:
   caption: "The CloudCT satellite setup for scattering computed tomography"
   focal_point: ""
   preview_only: false
-date: 2021-01-01
+date: 2023-06-06
 publishDate: 2023-06-02T17:08:13.460963Z
 ---
