@@ -52,7 +52,7 @@ sections:
           date_end: '2021-01-30'
           description: |2-
             * Student position in the Recommendations R&D group. Analyzed an enormous amount of data for supporting product related decisions and solutions. Used different analytics tools, such as complex SQL queries and dashboards.
-    - title: Head Teaching Assistant
+        - title: Head Teaching Assistant
           company: Technion
           company_url: ''
           company_logo: ''
