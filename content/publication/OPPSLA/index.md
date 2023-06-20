@@ -25,7 +25,7 @@ summary: ""
 lastmod: 2023-06-02T20:08:13+03:00
 image:
   filename: featured.png
-  caption: "The CloudCT satellite setup for scattering computed tomography"
+  caption: "Adversarial Program"
   focal_point: ""
   preview_only: false
 date: 2023-06-06
