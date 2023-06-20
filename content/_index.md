@@ -52,15 +52,6 @@ sections:
           date_end: '2021-01-30'
           description: |2-
             * Student position in the Recommendations R&D group. Analyzed an enormous amount of data for supporting product related decisions and solutions. Used different analytics tools, such as complex SQL queries and dashboards.
-          - title: Intelligence Officer (Captain)
-          company: IDF Intelligence Corps
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2017-10-01'
-          date_end: '2011-11-01'
-          description: |2-
-            * Military service at the Research and Analysis Department. Leading and running research and analysis team. Strategical, operational, tactical and technical in depth analysis of complex issues based on diverse information.
     design:
       columns: '2'
   # - block: accomplishments
