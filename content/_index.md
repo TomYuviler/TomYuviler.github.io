@@ -52,6 +52,15 @@ sections:
           date_end: '2021-01-30'
           description: |2-
             * Student position in the Recommendations R&D group. Analyzed an enormous amount of data for supporting product related decisions and solutions. Used different analytics tools, such as complex SQL queries and dashboards.
+    - title: Head Teaching Assistant
+          company: Technion
+          company_url: ''
+          company_logo: ''
+          location: ''
+          date_start: '2022-03-0'
+          date_end: '2023-09-30'
+          description: |2-
+            * Courses: Probability123, Correctness Guarantees for Software, Cognition in Information Visualization
     design:
       columns: '2'
   # - block: accomplishments
