@@ -32,15 +32,15 @@ sections:
     id: experience
     content:
       title: Experience
-      date_format: Jan 2006
+      date_format: 2006
       items:
         - title: Head Teaching Assistant
           company: Technion
           company_url: ''
           company_logo: ''
           location: ''
-          date_start: '2019-09-01'
-          date_end: '2021-09-30'
+          date_start: '2022-03-0'
+          date_end: '2023-09-30'
           description: |2-
             * Courses: Probability, Correctness Guarantees for Software, Cognition in Information Visualization
         - title: Multiple Roles
@@ -124,17 +124,6 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       count: 10
