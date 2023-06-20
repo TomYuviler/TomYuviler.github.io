@@ -1,8 +1,7 @@
 ---
 title: Tom Yuviler
 role: PhD student at the Faculty of Electrical and Computer Engineering
-bio: My research explores how eye movements in reading are related to different
-  reading tasks and to reading comprehension.
+bio: My research is focused on the innovative use of program synthesis and formal methods to generate adversarial attacks on neural networks. This exploration aims to deepen our understanding of network vulnerabilities and facilitate the creation of effective strategies for their detection and mitigation.
 interests:
   - Adversarial Attacks
   - Program Synthesis
@@ -58,4 +57,4 @@ first_name: Tom
 email: ""
 ---
 I am a PhD student at the [Faculty of Electrical and Computer Engineering](https://ece.technion.ac.il/), [Technion](https://www.technion.ac.il/en/home-2/), working under the supervision of [Dana Drachsler-Cohen](https://ddana.net.technion.ac.il/).
-My research explores how eye movements in reading are related to different reading tasks and to reading comprehension.
+My research is focused on the innovative use of program synthesis and formal methods to generate adversarial attacks on neural networks. This exploration aims to deepen our understanding of network vulnerabilities and facilitate the creation of effective strategies for their detection and mitigation.
