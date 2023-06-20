@@ -40,7 +40,7 @@ sections:
           company_logo: ''
           location: ''
           date_start: '2022-03-01'
-          date_end: '2023-09-30'
+          # date_end: '2023-09-30'
           description: |2-
             * Courses: Probability, Correctness Guarantees for Software, Cognition in Information Visualization
         - title: Data Analyst
