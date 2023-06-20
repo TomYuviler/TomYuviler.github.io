@@ -57,5 +57,5 @@ highlight_name: true
 first_name: Tom
 email: ""
 ---
-I am a PhD student at the Faculty of Electrical and Computer Engineering, Technion, working under the supervision of [Dana Drachsler-Cohen](https://ddana.net.technion.ac.il/).
+I am a PhD student at the [Faculty of Electrical and Computer Engineering](https://ece.technion.ac.il/), [Technion](https://www.technion.ac.il/en/home-2/), working under the supervision of [Dana Drachsler-Cohen](https://ddana.net.technion.ac.il/).
 My research explores how eye movements in reading are related to different reading tasks and to reading comprehension.
